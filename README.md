@@ -30,8 +30,8 @@ This Python script models compressible gas flow through a pipe system using the 
 - Python 3.x
 - [NumPy](https://numpy.org/)
 - [SciPy](https://scipy.org/)
-- [Matplotlib](https://matplotlib.org/) (optional, for plotting)
-- [SymPy](https://www.sympy.org/) (for symbolic calculations)
+- [Matplotlib](https://matplotlib.org/)
+- [SymPy](https://www.sympy.org/)
 
 Install dependencies using pip:
 
